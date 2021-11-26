@@ -24,8 +24,8 @@ sol=np.linalg.solve(A,B)
 print(sol)
 ~~~
 ## Output:
+<img src = "python cr 1.png">
 
-![GitHub Logo](python cr 1.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
